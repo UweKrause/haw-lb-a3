@@ -11,4 +11,5 @@ Zu implementieren sind
 - bestimmte Prädikate, die Aussagen über das Verwandschaftsverhältis von Personen aus der Datenbank treffen.
 - Prädikate (Funktionen) zur Konsistenzprüfung der Datenbank
 
-Dokumentation siehe Deduktive_Datenbanken_und_Unifikation_-_Teil_1_Familien-Datenbank.pdf
+# Dokumentation
+siehe Deduktive_Datenbanken_und_Unifikation_-_Teil_1_Familen-Datenbank.pdf
