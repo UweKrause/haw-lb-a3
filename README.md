@@ -12,4 +12,4 @@ Zu implementieren sind
 - Prädikate (Funktionen) zur Konsistenzprüfung der Datenbank
 
 # Dokumentation
-[Deduktive Datenbanken und Unifikation - Teil 1 Familen-Datenbank.pdf](Deduktive_Datenbanken_und_Unifikation_-_Teil_1_Familen-Datenbank.pdf)
+[Deduktive Datenbanken und Unifikation - Teil 1 Familien-Datenbank.pdf](Deduktive_Datenbanken_und_Unifikation_-_Teil_1_Familien-Datenbank.pdf)
