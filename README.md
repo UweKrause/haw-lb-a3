@@ -42,3 +42,9 @@ des Verwandtschaftsverhältnisses
 `geschwister(X, Y)`.
 
 ![Geschwister](praesentation/img/geschwister_umformung.jpg "Beispiel für die Umformung")
+
+# Zugriff auf Prolog-Ergebnisse mit Python
+
+(nachträgliche Ergänzung ab 2021)
+
+Siehe `prolog.py`
